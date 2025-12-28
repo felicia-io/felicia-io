@@ -1,9 +1,10 @@
-## Hi there, I'm Felicia
+<img width="14980" height="7500" alt="Berry Christmas" src="https://github.com/user-attachments/assets/1b982c0e-8d68-47ed-9b03-8fde4ff3270c" />## Hi there, I'm Felicia
 
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently mastering javascript
 
-<img width="14980" height="7500" alt="illustration" src="https://github.com/user-attachments/assets/d959eb9f-4018-45fa-9902-97af7685f4e2" />
+<img width="14980" height="7500" alt="Berry Christmas" src="https://github.com/user-attachments/assets/1f64834b-9124-427d-a1c1-421f8b088b81" />
+
 
 
 <!--
