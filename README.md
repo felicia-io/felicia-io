@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently mastering javascript
 
+<img width="14980" height="7500" alt="illustration" src="https://github.com/user-attachments/assets/d959eb9f-4018-45fa-9902-97af7685f4e2" />
+
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
