@@ -1,4 +1,5 @@
-<img width="14980" height="7500" alt="Berry Christmas" src="https://github.com/user-attachments/assets/1b982c0e-8d68-47ed-9b03-8fde4ff3270c" />## Hi there, I'm Felicia
+<img width="14980" height="7500" alt="Berry Christmas" src="https://github.com/user-attachments/assets/1b982c0e-8d68-47ed-9b03-8fde4ff3270c" />
+## Hi there, I'm Felicia
 
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently mastering javascript
