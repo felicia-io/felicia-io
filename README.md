@@ -2,7 +2,8 @@
 
 ## Hi there, I'm Felicia
 
-- 🔭 I’m currently working on my portfolio website.
+- 🔭 I’m currently working on:
+  <img width="8988" height="4500" alt="baby berries" src="https://github.com/user-attachments/assets/7f56ec47-9ac3-42fd-a34b-672ccccaadb0" />
 - 🌱 I’m currently mastering javascript
 
 <!--
